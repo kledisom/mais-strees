@@ -2,6 +2,6 @@
 
 ale = require('./fun');
 
-ale();
+
 
 console.log("hello world")
